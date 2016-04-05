@@ -1,0 +1,4 @@
+TRUMP.txt
+SANDERS.txt
+CLINTON.txt
+CRUZ.txt
